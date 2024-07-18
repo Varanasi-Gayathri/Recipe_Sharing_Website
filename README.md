@@ -7,7 +7,7 @@ TECHNOLOGIES USED:
 - CSS
 - JAVASCRIPT
 
-
+OVERVIEW:
 - "Recipe Sharing Website" is a project that presents a web application for users to browse and contribute their own recipes.
 - This project is a web-based application that provides an online platform where any users who like to cook can explore other recipes, post or share their own recipes and can also interact with others through Comment Section.
 - It has simple features and functionalities which allow the users to use this application easily. It has a pleasant user interface.
